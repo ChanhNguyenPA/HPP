@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/uploads/cf7-database/
+Disallow: /readme.html
+Disallow: /license.txt
+Disallow: /?s=*
+Disallow: /gio-hang/
+Disallow: /tai-khoan/*
+Disallow: /comment-page-1/
+Disallow: /comment-page-2/
+Disallow: /*?attribute_pa_mau-sac=
+Sitemap: https://happyphone.vn/sitemap_index.xml
